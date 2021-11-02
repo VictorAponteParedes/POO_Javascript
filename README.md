@@ -1,0 +1,2 @@
+Es un Sistema específicamente para X Banco que sirve con el fin de que un Usuario pueda tener una cuenta corriente o una cuenta de ahorro , que a su vez le permite quitar un x valor o depositar x valor  o transferir x valor a otra persona 
+Por otra parte la tecnología cuenta con el manejo del sistema de acceso de los funcionarios y gerentes de X Banco que les permiten saber cuanto son los salarios de ciertos empleados  y todo esto esta echa con  <JavaScript POO!!! >
